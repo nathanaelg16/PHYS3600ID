@@ -1,3 +1,3 @@
 # My first Github repo
 
-Welcome!
+Welcome! Happy to have you here.
